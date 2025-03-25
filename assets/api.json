@@ -1,0 +1,38 @@
+{
+  "data": {
+    "id": "0x00000000000000000000000000000000000000",
+    "type": "token",
+    "attributes": {
+      "address": "0x00000000000000000000000000000000000000",
+      "name": "HABIBI",
+      "symbol": "HABIBI",
+      "decimals": 6,
+      "image_url": "/assets/Habibi.jpg",
+      "coingecko_coin_id": "habibi-eth",
+      "total_supply": "999888906421388.0",
+      "price_usd": "0.001221195985",
+      "fdv_usd": "1221060.318047",
+      "total_reserve_in_usd": "99859.839944850682924395",
+      "volume_usd": { "h24": "10644.7250193493" },
+      "market_cap_usd": "1221086.63056313"
+    },
+    "relationships": {
+      "top_pools": {
+        "data": [
+          {
+            "id": "1_0x00000000000000000000000000000000000000",
+            "type": "pool"
+          },
+          {
+            "id": "2_0x00000000000000000000000000000000000000",
+            "type": "pool"
+          },
+          {
+            "id": "3_0x00000000000000000000000000000000000000",
+            "type": "pool"
+          }
+        ]
+      }
+    }
+  }
+}
